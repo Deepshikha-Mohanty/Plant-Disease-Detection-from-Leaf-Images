@@ -1,0 +1,4 @@
+Potato crops are one of the most widely cultivated and economically significant food sources across the world. However, they are highly vulnerable to a range of fungal infections, particularly Early Blight and Late Blight, which can rapidly spread across fields and cause severe yield losses if not identified in time. 
+Traditional disease detection methods rely heavily on manual inspection by experts, which is often slow, labor-intensive, and prone to human error.
+To address these challenges, this project leverages deep learning techniques to automatically classify potato leaf diseases from image data. By training a convolutional neural network (CNN) on a large dataset of potato leaf images, the system can accurately distinguish between healthy leaves and those affected by common diseases. 
+
